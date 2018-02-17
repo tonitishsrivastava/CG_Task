@@ -1,0 +1,31 @@
+    <resources>
+        <string name="app_name">Registration App</string>
+        <string name="your_first_name">First name</string>
+        <string name="your_phone_number">Phone number</string>
+        <string name="your_email_id">Email id</string>
+        <string name="enter_your_password">Create your password</string>
+        <string name="sign_up">Sign up</string>
+        <string name="already_have_an_account">Already have an account ?</string>
+        <string name="login">Login</string>
+        <string name="logout">Logout</string>
+        <string name="don_t_have_an_account">Don\'t have an account?</string>
+        <string name="your_login_id">Login id</string>
+        <string name="error_password">one number and ony special character require</string>
+        <string name="error_email">Email require</string>
+        <string name="error_first_name">First name is require</string>
+        <string name="error_phone">Phone number should be atleast 10 digit long</string>
+        <string name="error_spinner">Select city</string>
+        <string name="email_pattern">[a-zA-Z0-9._-]+@[a-z]+\\.+[a-z]+</string>
+        <string name="login_password_error">invalid password</string>
+            <string name="city_prompt">Choose a city</string>
+            <string name="welcome">welcome</string>
+            <string-array name="city_arrays">
+                    <item>Select City</item>
+                    <item>Delhi</item>
+                    <item>Mumbai</item>
+                    <item>kolkata</item>
+                    <item>Chennai</item>
+                    <item>Bangalore</item>
+            </string-array>
+
+    </resources>
